@@ -8,6 +8,9 @@ SNCB / NMBS
 Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Maatschappij der Belgische Spoorwegen) ist die belgische Staatsbahn und die wichtigste Bahngesellschaft in Belgien.
 (Bild hier einfügen)
 
+-- Reservierung --
+Reservierungspflicht: Innerhalb Belgiens bei der SNCB keine und auch in vielen Zügen gar nicht möglich. Beim grenzüberschreitenden ICE nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2024 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
+
 -- Gültigkeit FIP-Tickets --
 FIP-Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB ohne Einschränkungen gültig. Allerdings muss auf Verbindungen von und zum Flughafen Brüssel für den Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 6,70 Euro (vgl. https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport).
 
